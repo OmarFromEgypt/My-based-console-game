@@ -1,0 +1,7 @@
+C:\Users\Ahmed & Omer\source\repos\My based-console game\My based-console game\bin\Debug\My based-console game.exe.config
+C:\Users\Ahmed & Omer\source\repos\My based-console game\My based-console game\bin\Debug\My based-console game.exe
+C:\Users\Ahmed & Omer\source\repos\My based-console game\My based-console game\bin\Debug\My based-console game.pdb
+C:\Users\Ahmed & Omer\source\repos\My based-console game\My based-console game\obj\Debug\My based-console game.csproj.AssemblyReference.cache
+C:\Users\Ahmed & Omer\source\repos\My based-console game\My based-console game\obj\Debug\My based-console game.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed & Omer\source\repos\My based-console game\My based-console game\obj\Debug\My based-console game.exe
+C:\Users\Ahmed & Omer\source\repos\My based-console game\My based-console game\obj\Debug\My based-console game.pdb
